@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Lista de Casamento</string>
+    <string name="action_settings">Ecolher outro Arquivo</string>
+    <string name="action_search">Search</string>
+
+    <string name="message_conexao_criada_com_sucesso">Conexao criada com sucesso</string>
+    <string name="hint_search">pesquisa</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
